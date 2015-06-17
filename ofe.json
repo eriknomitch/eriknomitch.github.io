@@ -1,0 +1,11 @@
+{
+  "default": {
+    "extensions": [".html"]
+  },
+  "diff": {
+    "command": "git diff --name-only"
+  },
+  "git": {
+    "files": [".git/config", ".gitignore"]
+  }
+}
