@@ -1,4 +1,4 @@
-alert "ok"
+#$ -> $('body').css 'background-color', 'red'
 
 #$(document).ready(function() {
   #/*
