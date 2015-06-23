@@ -1,0 +1,56 @@
+body {
+  margin: 30px;
+  max-width: 800px;
+}
+*:not(code) {
+  /*font-family: 'Open Sans';*/
+  font-family: Helvetica, arial, nimbussansl, liberationsans, freesans, clean, sans-serif, 'Segoe UI Emoji', 'Segoe UI Symbol';
+  color: #444;
+  /*letter-spacing: 0.04em;*/
+}
+a, a:visited {
+  color: #0000ff;
+  /*
+  color: #ff0000;
+  */
+  text-decoration: none;
+}
+code {
+  display: block;
+  /*
+  background: #000;
+  color: #fff;
+  padding: 8px 10px;
+  */
+  font-size: 15px;
+  max-width: 300px;
+}
+span.author {
+  font-style: italic;
+}
+code span.heart {
+  color: #ff0000;
+}
+section {
+  margin-left: 30px;
+}
+section>ul li {
+  line-height: 1.5em;
+  padding-left: 0px;
+}
+ul li a i {
+  padding-right: 8px;
+}
+section ul {
+  list-style-type: none;
+  padding-left: 0px;
+}
+.up-text {
+  top: -13px;
+  position: relative;
+  font-size: 10px;
+  font-weight: normal;
+  font-style: italic;
+  letter-spacing: 0.05em;
+  margin-left: 3px;
+}
