@@ -34,8 +34,11 @@ code span.heart {
 section {
   margin-left: 30px;
 }
+section>ul {
+  line-height: 5em;
+}
 section>ul li {
-  line-height: 1.5em;
+  line-height: 5em;
   padding-left: 0px;
 }
 ul li a i {
@@ -44,6 +47,7 @@ ul li a i {
 section ul {
   list-style-type: none;
   padding-left: 0px;
+  line-height: 1.7em;
 }
 .up-text {
   top: -13px;

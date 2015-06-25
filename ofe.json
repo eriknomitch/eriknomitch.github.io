@@ -1,6 +1,6 @@
 {
   "default": {
-    "extensions": [".html"]
+    "extensions": [".html", ".css", ".coffee"]
   },
   "diff": {
     "command": "git diff --name-only"
